@@ -1,0 +1,26 @@
+.body {
+    display: flex;
+    flex-direction: column;
+    background-color: #ffb6b6;
+    min-height: 100vh;
+}
+
+.homeContent {
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+}
+.homeContent p{
+    margin-top: 2vh;
+}
+
+.h1 {
+    color: #333;
+}
+
+.p {
+    color: #666;
+    font-size: 18px;
+}
+

@@ -1,0 +1,30 @@
+/* styles/Animais.module.css */
+.body{
+    background-color: #ffb6b6;
+}
+
+.h1 {
+    color: #333;
+}
+
+.animais {
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin: 10px 0;
+    padding: 10px;
+    width: 80%;
+    max-width: 600px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.animais:hover {
+    background-color: #e0e0e0;
+}
+
+.p1 {
+    text-decoration: none;
+    font-size: 18px;
+    color: #333;
+}
